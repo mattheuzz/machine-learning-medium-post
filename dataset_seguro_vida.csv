@@ -1,0 +1,1001 @@
+Salario,Funcao,Idade,Fuma,ProblemasGeneticos,Cidade,Estado,Sexo,PrecoSeguro
+125186,Bombeiro,56,Não,Não,Curitiba,PR,Masculino,278.2
+54674,Professor,69,Sim,Não,São Paulo,RS,Feminino,238.0
+55854,Bombeiro,46,Não,Não,Rio de Janeiro,PR,Feminino,242.0
+66271,Professor,32,Sim,Não,Porto Alegre,PR,Feminino,164.0
+93688,Bombeiro,60,Não,Sim,Porto Alegre,RS,Masculino,364.0
+58518,Piloto,25,Não,Não,São Paulo,SP,Masculino,210.0
+131076,Piloto,38,Sim,Não,São Paulo,PR,Masculino,293.6
+30267,Engenheiro,56,Sim,Sim,Rio de Janeiro,PR,Feminino,282.0
+110825,Policial,36,Não,Sim,Belo Horizonte,MG,Masculino,311.2
+21062,Bombeiro,40,Não,Não,São Paulo,RS,Feminino,230.0
+136664,Médico,28,Não,Sim,Belo Horizonte,RJ,Masculino,193.6
+70448,Engenheiro,28,Sim,Sim,Curitiba,SP,Masculino,248.6
+115462,Bombeiro,41,Sim,Não,Porto Alegre,SP,Masculino,300.2
+26229,Bombeiro,53,Sim,Sim,Belo Horizonte,RS,Masculino,403.6
+76793,Engenheiro,57,Sim,Sim,Porto Alegre,MG,Feminino,284.0
+134813,Piloto,41,Sim,Não,Belo Horizonte,MG,Masculino,300.2
+67915,Bombeiro,20,Sim,Não,Curitiba,RS,Masculino,265.0
+24632,Piloto,39,Não,Sim,São Paulo,MG,Feminino,298.0
+124592,Engenheiro,19,Não,Sim,Curitiba,SP,Feminino,170.0
+23596,Piloto,41,Sim,Não,São Paulo,SP,Masculino,300.2
+129779,Professor,61,Não,Sim,São Paulo,RJ,Masculino,266.2
+26168,Médico,47,Não,Sim,Porto Alegre,RS,Feminino,214.0
+128099,Advogado,55,Sim,Sim,Curitiba,PR,Feminino,280.0
+27561,Bombeiro,19,Não,Não,Belo Horizonte,PR,Feminino,200.0
+93794,Policial,38,Sim,Sim,Curitiba,RJ,Masculino,370.6
+102152,Médico,50,Sim,Sim,Porto Alegre,RJ,Masculino,297.0
+145036,Advogado,29,Não,Não,São Paulo,MG,Masculino,118.8
+144049,Piloto,39,Sim,Sim,Porto Alegre,RJ,Feminino,348.0
+46734,Bombeiro,61,Sim,Sim,Rio de Janeiro,RJ,Feminino,392.0
+26371,Piloto,42,Sim,Não,Rio de Janeiro,PR,Feminino,284.0
+138894,Professor,66,Sim,Não,Belo Horizonte,MG,Masculino,255.2
+46069,Engenheiro,44,Sim,Não,Porto Alegre,RJ,Feminino,188.0
+99905,Bombeiro,59,Sim,Não,Belo Horizonte,RJ,Masculino,339.8
+32910,Advogado,45,Sim,Sim,Belo Horizonte,MG,Feminino,260.0
+93479,Advogado,33,Sim,Sim,Rio de Janeiro,RS,Masculino,259.6
+97735,Professor,32,Não,Não,Belo Horizonte,MG,Masculino,125.4
+101264,Professor,64,Não,Não,Rio de Janeiro,PR,Feminino,178.0
+43275,Bombeiro,68,Não,Sim,São Paulo,RS,Masculino,381.6
+92274,Piloto,61,Sim,Não,Porto Alegre,SP,Feminino,322.0
+101449,Policial,69,Sim,Sim,Belo Horizonte,MG,Masculino,438.8
+120776,Advogado,20,Não,Não,Rio de Janeiro,PR,Feminino,100.0
+80004,Advogado,54,Não,Sim,Curitiba,RS,Feminino,228.0
+82981,Professor,68,Não,Não,Belo Horizonte,MG,Masculino,204.6
+104659,Médico,24,Sim,Não,São Paulo,RJ,Feminino,150.0
+74553,Professor,38,Não,Sim,São Paulo,MG,Masculino,215.6
+68447,Policial,26,Não,Não,Curitiba,SP,Feminino,202.0
+54529,Piloto,56,Sim,Sim,Rio de Janeiro,MG,Feminino,382.0
+146394,Piloto,35,Não,Sim,Belo Horizonte,RS,Feminino,290.0
+95703,Médico,21,Sim,Sim,Rio de Janeiro,RS,Feminino,220.0
+96090,Advogado,42,Sim,Sim,São Paulo,MG,Masculino,279.4
+37260,Professor,31,Sim,Sim,Rio de Janeiro,RS,Feminino,232.0
+132581,Piloto,67,Não,Não,São Paulo,RJ,Feminino,284.0
+23812,Policial,26,Não,Não,Rio de Janeiro,MG,Masculino,212.2
+48024,Bombeiro,43,Sim,Sim,Curitiba,RJ,Masculino,381.6
+78656,Engenheiro,19,Não,Não,Porto Alegre,RJ,Masculino,110.0
+136148,Engenheiro,37,Não,Sim,Curitiba,PR,Masculino,213.4
+47285,Engenheiro,45,Não,Não,Curitiba,MG,Masculino,154.0
+112436,Advogado,64,Não,Não,Porto Alegre,RS,Masculino,195.8
+136421,Professor,24,Sim,Não,Porto Alegre,RJ,Feminino,150.0
+21605,Médico,61,Não,Não,Belo Horizonte,PR,Masculino,189.2
+91158,Piloto,25,Sim,Sim,Belo Horizonte,MG,Feminino,320.0
+92303,Bombeiro,64,Sim,Sim,Curitiba,MG,Masculino,427.8
+47139,Policial,52,Não,Não,Curitiba,SP,Feminino,254.0
+97149,Bombeiro,31,Sim,Não,São Paulo,SP,Feminino,262.0
+76138,Policial,34,Não,Sim,São Paulo,RJ,Feminino,288.0
+138205,Advogado,53,Não,Não,Belo Horizonte,SP,Masculino,171.6
+96125,Professor,67,Sim,Sim,Belo Horizonte,RJ,Masculino,334.4
+33918,Engenheiro,57,Sim,Sim,São Paulo,RS,Masculino,312.4
+105655,Professor,21,Sim,Sim,São Paulo,RJ,Masculino,242.0
+47446,Advogado,19,Sim,Não,Rio de Janeiro,SP,Feminino,150.0
+144040,Médico,23,Não,Sim,Rio de Janeiro,RS,Masculino,187.0
+33046,Médico,59,Não,Não,São Paulo,SP,Feminino,168.0
+149922,Advogado,21,Não,Sim,Rio de Janeiro,RJ,Feminino,170.0
+44818,Policial,46,Sim,Não,Porto Alegre,PR,Masculino,311.2
+120894,Piloto,35,Sim,Não,Belo Horizonte,MG,Masculino,287.0
+135751,Piloto,43,Sim,Não,Belo Horizonte,SP,Masculino,304.6
+24324,Policial,61,Não,Sim,São Paulo,RJ,Feminino,342.0
+96323,Médico,51,Sim,Sim,Curitiba,RS,Masculino,299.2
+29111,Médico,27,Não,Não,São Paulo,SP,Feminino,104.0
+58110,Médico,53,Sim,Não,Rio de Janeiro,SP,Masculino,226.6
+36389,Professor,31,Não,Não,Curitiba,MG,Feminino,112.0
+142177,Médico,48,Não,Sim,Rio de Janeiro,RJ,Masculino,237.6
+61427,Bombeiro,65,Sim,Sim,Porto Alegre,PR,Masculino,430.0
+99579,Engenheiro,32,Sim,Sim,Rio de Janeiro,RS,Feminino,234.0
+48746,Médico,25,Não,Sim,Porto Alegre,RJ,Masculino,187.0
+142883,Policial,31,Não,Não,Porto Alegre,RS,Masculino,223.2
+107886,Engenheiro,40,Sim,Não,Rio de Janeiro,SP,Masculino,198.0
+127141,Professor,57,Sim,Sim,Rio de Janeiro,MG,Masculino,312.4
+20117,Policial,38,Não,Sim,Porto Alegre,MG,Masculino,315.6
+145808,Engenheiro,33,Sim,Não,Curitiba,PR,Masculino,182.6
+132221,Policial,62,Não,Sim,Porto Alegre,MG,Masculino,368.4
+104471,Professor,35,Não,Sim,Belo Horizonte,SP,Feminino,190.0
+132613,Bombeiro,64,Sim,Sim,Porto Alegre,PR,Feminino,398.0
+33234,Professor,41,Sim,Sim,Curitiba,RJ,Masculino,277.2
+149597,Professor,43,Sim,Sim,Belo Horizonte,MG,Masculino,281.6
+123864,Policial,42,Sim,Sim,São Paulo,PR,Masculino,379.4
+73441,Advogado,62,Sim,Não,São Paulo,SP,Feminino,224.0
+20846,Piloto,58,Não,Sim,Curitiba,RS,Feminino,336.0
+30954,Médico,46,Não,Sim,Porto Alegre,RS,Masculino,233.2
+99239,Médico,32,Sim,Não,Rio de Janeiro,SP,Feminino,164.0
+133689,Bombeiro,62,Sim,Não,Curitiba,SP,Masculino,346.4
+66514,Bombeiro,18,Sim,Não,Belo Horizonte,RS,Masculino,265.0
+108236,Médico,42,Não,Sim,Belo Horizonte,PR,Masculino,224.4
+117579,Piloto,24,Sim,Não,São Paulo,RS,Masculino,265.0
+148644,Médico,26,Sim,Sim,Belo Horizonte,SP,Feminino,222.0
+26469,Advogado,41,Não,Sim,Curitiba,MG,Feminino,202.0
+50105,Piloto,18,Não,Sim,Belo Horizonte,RJ,Masculino,287.0
+62101,Bombeiro,61,Sim,Não,Curitiba,MG,Feminino,322.0
+84323,Engenheiro,25,Sim,Não,Rio de Janeiro,MG,Feminino,150.0
+111922,Policial,41,Sim,Não,São Paulo,SP,Masculino,300.2
+78067,Advogado,28,Não,Não,Belo Horizonte,RS,Feminino,106.0
+69376,Advogado,68,Sim,Não,Curitiba,PR,Masculino,259.6
+65587,Bombeiro,34,Sim,Sim,Porto Alegre,MG,Masculino,361.8
+56976,Bombeiro,25,Sim,Sim,São Paulo,RS,Masculino,342.0
+124587,Professor,52,Não,Sim,Rio de Janeiro,PR,Masculino,246.4
+147534,Advogado,52,Não,Sim,Curitiba,MG,Feminino,224.0
+87584,Professor,50,Sim,Não,Rio de Janeiro,PR,Masculino,220.0
+124537,Professor,22,Sim,Não,Rio de Janeiro,RS,Feminino,150.0
+98477,Policial,59,Não,Sim,Belo Horizonte,RJ,Masculino,361.8
+130911,Professor,56,Não,Não,Belo Horizonte,RS,Masculino,178.2
+62533,Piloto,58,Não,Não,Curitiba,SP,Feminino,266.0
+21828,Médico,45,Não,Sim,Porto Alegre,PR,Masculino,231.0
+21917,Engenheiro,24,Não,Sim,Curitiba,RJ,Feminino,170.0
+40618,Bombeiro,26,Não,Não,Porto Alegre,PR,Feminino,202.0
+52254,Piloto,25,Não,Não,Rio de Janeiro,PR,Masculino,210.0
+125292,Engenheiro,29,Não,Sim,São Paulo,MG,Masculino,195.8
+136714,Advogado,51,Não,Sim,Curitiba,SP,Masculino,244.2
+67362,Advogado,50,Sim,Sim,Curitiba,PR,Masculino,297.0
+40128,Advogado,65,Sim,Não,Porto Alegre,RS,Masculino,253.0
+143781,Piloto,40,Sim,Sim,Rio de Janeiro,RS,Masculino,375.0
+131281,Piloto,41,Não,Sim,Rio de Janeiro,MG,Feminino,302.0
+79383,Bombeiro,54,Sim,Não,Porto Alegre,SP,Feminino,308.0
+85545,Médico,52,Não,Não,Rio de Janeiro,SP,Masculino,169.4
+102180,Professor,61,Não,Não,Belo Horizonte,RS,Feminino,172.0
+107958,Advogado,57,Sim,Não,São Paulo,RJ,Feminino,214.0
+29865,Policial,39,Não,Não,Curitiba,MG,Masculino,240.8
+22219,Médico,44,Sim,Sim,São Paulo,MG,Masculino,283.8
+59809,Policial,52,Sim,Sim,Curitiba,RS,Feminino,374.0
+136748,Bombeiro,18,Sim,Não,Belo Horizonte,RS,Masculino,265.0
+25287,Bombeiro,52,Não,Não,Rio de Janeiro,RJ,Feminino,254.0
+146593,Bombeiro,54,Sim,Não,Porto Alegre,RJ,Masculino,328.8
+54387,Engenheiro,64,Não,Não,Belo Horizonte,SP,Feminino,178.0
+28512,Policial,31,Sim,Não,São Paulo,MG,Feminino,262.0
+21342,Médico,20,Sim,Sim,Porto Alegre,MG,Feminino,220.0
+83076,Médico,18,Sim,Sim,Rio de Janeiro,RS,Feminino,220.0
+128872,Piloto,22,Não,Sim,Belo Horizonte,SP,Masculino,287.0
+39216,Piloto,43,Não,Sim,Porto Alegre,MG,Masculino,326.6
+137512,Advogado,31,Não,Não,Belo Horizonte,SP,Feminino,112.0
+136682,Piloto,56,Sim,Sim,Belo Horizonte,SP,Feminino,382.0
+113070,Bombeiro,44,Sim,Não,Rio de Janeiro,RS,Masculino,306.8
+99767,Médico,26,Não,Não,Curitiba,SP,Masculino,112.2
+117829,Policial,32,Não,Não,Porto Alegre,RJ,Feminino,214.0
+46614,Bombeiro,32,Não,Sim,Rio de Janeiro,RJ,Feminino,284.0
+56258,Engenheiro,43,Não,Não,Belo Horizonte,PR,Feminino,136.0
+113789,Piloto,59,Não,Sim,Rio de Janeiro,RS,Feminino,338.0
+62078,Bombeiro,30,Não,Sim,Curitiba,PR,Feminino,280.0
+126288,Bombeiro,68,Sim,Não,Porto Alegre,RJ,Masculino,359.6
+103524,Engenheiro,49,Não,Não,Curitiba,PR,Feminino,148.0
+116573,Professor,56,Sim,Não,São Paulo,RS,Masculino,233.2
+32219,Médico,66,Sim,Sim,Porto Alegre,RS,Masculino,332.2
+20235,Policial,69,Não,Não,Curitiba,SP,Masculino,306.8
+62929,Advogado,49,Não,Sim,Belo Horizonte,MG,Feminino,218.0
+147309,Professor,21,Sim,Não,Porto Alegre,SP,Masculino,165.0
+87444,Piloto,47,Não,Não,Porto Alegre,RS,Masculino,258.4
+28567,Bombeiro,54,Não,Sim,Rio de Janeiro,RJ,Masculino,350.8
+121834,Engenheiro,40,Sim,Sim,Belo Horizonte,RJ,Masculino,275.0
+90792,Engenheiro,56,Sim,Sim,São Paulo,SP,Feminino,282.0
+85441,Médico,62,Sim,Sim,Curitiba,RS,Feminino,294.0
+104555,Professor,32,Não,Sim,Rio de Janeiro,RJ,Masculino,202.4
+93698,Advogado,60,Sim,Sim,Curitiba,RS,Masculino,319.0
+144450,Médico,46,Não,Não,São Paulo,RJ,Feminino,142.0
+137248,Bombeiro,53,Sim,Não,São Paulo,RS,Feminino,306.0
+25415,Médico,30,Sim,Sim,Porto Alegre,PR,Feminino,230.0
+56159,Policial,49,Sim,Não,São Paulo,RS,Masculino,317.8
+63925,Engenheiro,24,Não,Sim,Curitiba,RS,Feminino,170.0
+146523,Engenheiro,68,Não,Não,Belo Horizonte,SP,Masculino,204.6
+25951,Piloto,39,Sim,Não,Belo Horizonte,PR,Masculino,295.8
+107388,Piloto,45,Sim,Sim,Porto Alegre,MG,Feminino,360.0
+28007,Advogado,19,Sim,Sim,Curitiba,SP,Masculino,242.0
+146730,Bombeiro,59,Não,Sim,Curitiba,MG,Feminino,338.0
+61832,Policial,62,Sim,Não,São Paulo,RJ,Masculino,346.4
+78596,Professor,23,Não,Sim,Curitiba,MG,Feminino,170.0
+141101,Médico,45,Sim,Não,Rio de Janeiro,RS,Masculino,209.0
+50523,Advogado,45,Sim,Sim,São Paulo,MG,Masculino,286.0
+108861,Bombeiro,61,Sim,Não,Rio de Janeiro,SP,Feminino,322.0
+144194,Piloto,61,Sim,Não,Porto Alegre,SP,Feminino,322.0
+106740,Médico,37,Sim,Sim,Belo Horizonte,MG,Feminino,244.0
+35524,Piloto,47,Sim,Não,Porto Alegre,SP,Feminino,294.0
+149028,Médico,28,Não,Não,Belo Horizonte,SP,Masculino,116.6
+39282,Professor,45,Sim,Sim,Porto Alegre,MG,Feminino,260.0
+43930,Bombeiro,42,Não,Não,Curitiba,PR,Feminino,234.0
+20077,Médico,56,Sim,Sim,Rio de Janeiro,PR,Masculino,310.2
+125881,Policial,50,Sim,Sim,Belo Horizonte,RJ,Feminino,370.0
+145501,Advogado,18,Não,Sim,São Paulo,SP,Feminino,170.0
+40611,Engenheiro,44,Sim,Sim,Rio de Janeiro,MG,Masculino,283.8
+36984,Policial,69,Não,Não,São Paulo,SP,Feminino,288.0
+34060,Policial,30,Não,Não,Rio de Janeiro,RS,Feminino,210.0
+102985,Advogado,58,Sim,Não,Rio de Janeiro,SP,Feminino,216.0
+104056,Engenheiro,20,Não,Sim,Porto Alegre,SP,Feminino,170.0
+145329,Policial,56,Não,Não,Belo Horizonte,PR,Feminino,262.0
+63303,Médico,23,Sim,Não,Belo Horizonte,MG,Feminino,150.0
+79207,Médico,25,Não,Sim,Rio de Janeiro,SP,Masculino,187.0
+95046,Médico,44,Sim,Sim,Curitiba,PR,Feminino,258.0
+49287,Engenheiro,26,Sim,Não,Curitiba,RJ,Masculino,167.2
+113709,Policial,54,Sim,Sim,São Paulo,PR,Masculino,405.8
+59711,Engenheiro,50,Sim,Sim,São Paulo,PR,Masculino,297.0
+31954,Médico,68,Não,Sim,Porto Alegre,PR,Masculino,281.6
+93340,Advogado,59,Sim,Sim,Rio de Janeiro,SP,Feminino,288.0
+92101,Policial,61,Sim,Não,São Paulo,SP,Feminino,322.0
+91520,Policial,41,Não,Sim,São Paulo,RJ,Feminino,302.0
+107062,Piloto,32,Sim,Sim,Rio de Janeiro,RS,Masculino,357.4
+122974,Piloto,49,Sim,Sim,Porto Alegre,RS,Feminino,368.0
+38574,Professor,49,Não,Sim,São Paulo,RS,Feminino,218.0
+29184,Bombeiro,41,Não,Sim,Porto Alegre,RJ,Feminino,302.0
+39096,Piloto,58,Não,Sim,Belo Horizonte,RS,Masculino,359.6
+87728,Engenheiro,69,Não,Sim,Porto Alegre,RS,Masculino,283.8
+54016,Piloto,66,Não,Sim,Curitiba,PR,Feminino,352.0
+31246,Professor,66,Não,Não,Curitiba,SP,Masculino,200.2
+65558,Policial,69,Não,Sim,Porto Alegre,SP,Masculino,383.8
+138721,Professor,29,Sim,Não,Curitiba,PR,Feminino,158.0
+38381,Policial,56,Não,Sim,Belo Horizonte,PR,Masculino,355.2
+147796,Advogado,19,Não,Sim,Rio de Janeiro,PR,Masculino,187.0
+56455,Advogado,20,Não,Sim,Curitiba,SP,Feminino,170.0
+112263,Policial,66,Sim,Sim,Curitiba,RS,Masculino,432.2
+24018,Bombeiro,54,Sim,Não,Porto Alegre,PR,Masculino,328.8
+31302,Piloto,66,Não,Sim,Belo Horizonte,RJ,Masculino,377.2
+87506,Engenheiro,34,Não,Sim,Rio de Janeiro,PR,Masculino,206.8
+61157,Engenheiro,66,Não,Não,Porto Alegre,MG,Masculino,200.2
+74917,Médico,19,Sim,Não,Porto Alegre,PR,Masculino,165.0
+112738,Policial,19,Sim,Sim,Belo Horizonte,SP,Masculino,342.0
+116646,Engenheiro,45,Não,Não,Rio de Janeiro,PR,Masculino,154.0
+103122,Bombeiro,40,Sim,Não,Belo Horizonte,MG,Feminino,280.0
+44519,Policial,54,Não,Não,Rio de Janeiro,RJ,Feminino,258.0
+116809,Bombeiro,49,Sim,Sim,Belo Horizonte,RS,Feminino,368.0
+107487,Engenheiro,50,Sim,Sim,Porto Alegre,PR,Feminino,270.0
+76819,Engenheiro,18,Não,Sim,Porto Alegre,MG,Masculino,187.0
+100910,Médico,36,Não,Não,São Paulo,MG,Feminino,122.0
+140430,Engenheiro,19,Não,Sim,Curitiba,RJ,Feminino,170.0
+91324,Policial,61,Não,Não,Belo Horizonte,SP,Masculino,289.2
+25408,Advogado,43,Sim,Sim,São Paulo,PR,Masculino,281.6
+79379,Policial,49,Sim,Sim,Curitiba,MG,Masculino,394.8
+45053,Policial,23,Sim,Não,Belo Horizonte,RJ,Masculino,265.0
+29446,Médico,49,Não,Sim,Rio de Janeiro,RS,Masculino,239.8
+20922,Médico,21,Sim,Não,Curitiba,MG,Feminino,150.0
+118723,Engenheiro,28,Não,Não,Porto Alegre,RJ,Masculino,116.6
+71356,Professor,34,Sim,Sim,São Paulo,SP,Feminino,238.0
+30789,Professor,55,Não,Não,Curitiba,SP,Feminino,160.0
+117720,Médico,41,Não,Sim,Curitiba,MG,Masculino,222.2
+86656,Engenheiro,22,Sim,Sim,Porto Alegre,MG,Feminino,220.0
+64028,Professor,69,Não,Não,Belo Horizonte,PR,Feminino,188.0
+84484,Engenheiro,51,Não,Sim,Rio de Janeiro,RJ,Masculino,244.2
+52154,Engenheiro,23,Sim,Não,Porto Alegre,MG,Feminino,150.0
+102870,Engenheiro,39,Não,Sim,Rio de Janeiro,PR,Feminino,198.0
+22336,Piloto,28,Não,Sim,Belo Horizonte,PR,Feminino,276.0
+123677,Policial,65,Não,Sim,Curitiba,MG,Masculino,375.0
+87779,Engenheiro,33,Sim,Sim,Rio de Janeiro,SP,Masculino,259.6
+39029,Piloto,50,Sim,Sim,São Paulo,RJ,Masculino,397.0
+79201,Médico,26,Não,Não,São Paulo,RJ,Feminino,102.0
+52265,Professor,23,Sim,Não,Porto Alegre,SP,Masculino,165.0
+122916,Policial,33,Não,Não,Belo Horizonte,MG,Feminino,216.0
+132250,Advogado,46,Não,Não,Porto Alegre,RJ,Masculino,156.2
+136553,Professor,20,Não,Não,Porto Alegre,MG,Feminino,100.0
+63872,Policial,37,Não,Não,Porto Alegre,MG,Masculino,236.4
+66197,Advogado,53,Não,Sim,São Paulo,PR,Masculino,248.6
+145733,Professor,36,Sim,Sim,São Paulo,SP,Feminino,242.0
+75180,Policial,43,Não,Não,Porto Alegre,MG,Masculino,249.6
+43710,Professor,20,Sim,Não,São Paulo,RS,Feminino,150.0
+49486,Professor,36,Sim,Sim,Belo Horizonte,SP,Masculino,266.2
+91907,Advogado,37,Não,Sim,Porto Alegre,RJ,Masculino,213.4
+148876,Professor,49,Não,Sim,São Paulo,PR,Feminino,218.0
+91895,Professor,24,Sim,Não,Rio de Janeiro,RJ,Feminino,150.0
+84435,Advogado,69,Sim,Não,Porto Alegre,RJ,Feminino,238.0
+60631,Médico,58,Sim,Não,Porto Alegre,SP,Masculino,237.6
+149038,Engenheiro,50,Não,Sim,Belo Horizonte,RJ,Feminino,220.0
+121532,Bombeiro,57,Sim,Sim,Curitiba,MG,Masculino,412.4
+40103,Piloto,56,Não,Não,Curitiba,RJ,Feminino,262.0
+84772,Bombeiro,35,Não,Não,Belo Horizonte,PR,Feminino,220.0
+146108,Bombeiro,57,Não,Sim,Belo Horizonte,PR,Feminino,334.0
+34382,Policial,18,Sim,Sim,Belo Horizonte,RS,Feminino,320.0
+104291,Engenheiro,28,Não,Sim,Curitiba,PR,Feminino,176.0
+121195,Policial,45,Não,Sim,Belo Horizonte,RJ,Feminino,310.0
+23756,Engenheiro,42,Não,Não,São Paulo,PR,Masculino,147.4
+40609,Advogado,67,Não,Sim,Porto Alegre,SP,Feminino,254.0
+134074,Advogado,40,Não,Sim,Porto Alegre,PR,Masculino,220.0
+36478,Engenheiro,48,Sim,Sim,Rio de Janeiro,MG,Feminino,266.0
+120978,Professor,47,Não,Não,Rio de Janeiro,SP,Feminino,144.0
+59666,Médico,59,Não,Não,Porto Alegre,RS,Feminino,168.0
+95683,Professor,52,Sim,Sim,São Paulo,MG,Masculino,301.4
+119097,Médico,24,Não,Sim,Curitiba,RJ,Masculino,187.0
+144714,Policial,33,Sim,Sim,Curitiba,RJ,Feminino,336.0
+120420,Médico,43,Não,Não,São Paulo,RJ,Masculino,149.6
+91315,Policial,65,Sim,Não,Curitiba,MG,Feminino,330.0
+97834,Advogado,69,Sim,Não,Belo Horizonte,MG,Feminino,238.0
+146205,Bombeiro,66,Não,Sim,Porto Alegre,MG,Masculino,377.2
+34153,Advogado,19,Não,Não,Porto Alegre,SP,Masculino,110.0
+129415,Advogado,18,Não,Sim,São Paulo,SP,Masculino,187.0
+96325,Bombeiro,65,Sim,Sim,Curitiba,RJ,Masculino,430.0
+129701,Médico,29,Sim,Sim,Rio de Janeiro,PR,Feminino,228.0
+32999,Médico,22,Sim,Não,Rio de Janeiro,RJ,Masculino,165.0
+75318,Policial,54,Não,Sim,Curitiba,RS,Masculino,350.8
+20814,Professor,49,Sim,Não,Rio de Janeiro,SP,Feminino,198.0
+135033,Policial,26,Sim,Não,São Paulo,MG,Masculino,267.2
+96077,Professor,58,Não,Sim,São Paulo,SP,Masculino,259.6
+110474,Advogado,52,Sim,Sim,Curitiba,MG,Masculino,301.4
+22443,Bombeiro,36,Sim,Não,Rio de Janeiro,RS,Masculino,289.2
+95993,Advogado,65,Não,Sim,São Paulo,RS,Feminino,250.0
+95916,Engenheiro,33,Sim,Não,São Paulo,SP,Feminino,166.0
+93319,Médico,20,Não,Sim,Belo Horizonte,MG,Masculino,187.0
+145885,Professor,37,Não,Não,Belo Horizonte,RS,Masculino,136.4
+129777,Policial,41,Não,Não,São Paulo,RJ,Feminino,232.0
+37368,Bombeiro,50,Não,Não,Curitiba,RJ,Masculino,265.0
+35328,Professor,41,Não,Não,Porto Alegre,MG,Masculino,145.2
+76942,Policial,69,Sim,Sim,Porto Alegre,SP,Masculino,438.8
+111751,Médico,28,Sim,Sim,São Paulo,RS,Masculino,248.6
+119131,Advogado,66,Não,Não,São Paulo,SP,Masculino,200.2
+47306,Médico,25,Não,Não,São Paulo,RJ,Masculino,110.0
+105451,Piloto,53,Sim,Sim,Curitiba,RS,Masculino,403.6
+59915,Engenheiro,55,Não,Sim,Belo Horizonte,SP,Masculino,253.0
+57219,Piloto,57,Não,Sim,São Paulo,PR,Masculino,357.4
+100879,Bombeiro,37,Não,Sim,São Paulo,MG,Feminino,294.0
+131939,Professor,52,Sim,Sim,Rio de Janeiro,MG,Feminino,274.0
+84644,Bombeiro,65,Sim,Sim,Curitiba,PR,Feminino,400.0
+80279,Advogado,42,Não,Não,São Paulo,RJ,Masculino,147.4
+73028,Policial,52,Não,Sim,Rio de Janeiro,RS,Masculino,346.4
+124263,Médico,42,Sim,Sim,Porto Alegre,MG,Feminino,254.0
+20126,Piloto,46,Sim,Não,São Paulo,PR,Masculino,311.2
+72329,Piloto,35,Não,Sim,São Paulo,PR,Feminino,290.0
+47632,Advogado,63,Não,Sim,Rio de Janeiro,RJ,Masculino,270.6
+127099,Piloto,35,Sim,Sim,Curitiba,RJ,Feminino,340.0
+85310,Advogado,19,Sim,Sim,São Paulo,SP,Feminino,220.0
+129945,Bombeiro,52,Sim,Sim,Porto Alegre,MG,Feminino,374.0
+75176,Médico,33,Não,Não,São Paulo,SP,Masculino,127.6
+139797,Professor,58,Sim,Sim,Porto Alegre,PR,Feminino,286.0
+106066,Policial,53,Não,Não,Belo Horizonte,RS,Masculino,271.6
+125500,Professor,50,Sim,Não,Belo Horizonte,RS,Masculino,220.0
+146413,Bombeiro,21,Sim,Sim,Porto Alegre,RJ,Masculino,342.0
+64327,Policial,50,Sim,Não,Curitiba,RS,Masculino,320.0
+88904,Piloto,31,Sim,Sim,São Paulo,RS,Masculino,355.2
+23797,Engenheiro,38,Não,Não,São Paulo,RS,Masculino,138.6
+67882,Bombeiro,65,Não,Não,Belo Horizonte,PR,Masculino,298.0
+33718,Bombeiro,37,Sim,Sim,Porto Alegre,RS,Feminino,344.0
+54560,Médico,25,Não,Sim,São Paulo,RS,Feminino,170.0
+96589,Professor,24,Sim,Sim,São Paulo,RS,Feminino,220.0
+42116,Bombeiro,20,Sim,Sim,Curitiba,SP,Masculino,342.0
+56244,Bombeiro,34,Sim,Sim,Rio de Janeiro,PR,Masculino,361.8
+121721,Piloto,50,Sim,Não,Belo Horizonte,RJ,Masculino,320.0
+21645,Piloto,65,Não,Não,Belo Horizonte,SP,Masculino,298.0
+67523,Policial,29,Sim,Não,Rio de Janeiro,MG,Feminino,258.0
+144085,Advogado,68,Sim,Não,São Paulo,PR,Masculino,259.6
+137718,Advogado,39,Não,Não,Curitiba,PR,Feminino,128.0
+39256,Engenheiro,39,Sim,Não,Curitiba,MG,Masculino,195.8
+121376,Advogado,63,Sim,Não,Belo Horizonte,MG,Feminino,226.0
+120158,Médico,47,Sim,Sim,Curitiba,MG,Masculino,290.4
+73173,Engenheiro,55,Não,Sim,Rio de Janeiro,RJ,Feminino,230.0
+57430,Policial,55,Sim,Não,São Paulo,RS,Masculino,331.0
+59282,Piloto,62,Não,Não,Rio de Janeiro,PR,Feminino,274.0
+139719,Advogado,68,Sim,Sim,Porto Alegre,RS,Masculino,336.6
+83374,Professor,25,Sim,Sim,Belo Horizonte,RS,Feminino,220.0
+88244,Piloto,44,Não,Sim,Curitiba,MG,Feminino,308.0
+31694,Médico,44,Sim,Sim,Porto Alegre,RJ,Masculino,283.8
+76264,Piloto,51,Sim,Não,Curitiba,SP,Feminino,302.0
+95060,Médico,38,Não,Sim,São Paulo,RJ,Masculino,215.6
+117416,Médico,47,Não,Não,São Paulo,RS,Masculino,158.4
+77545,Médico,50,Não,Não,São Paulo,RJ,Masculino,165.0
+138195,Policial,45,Não,Não,Curitiba,MG,Feminino,240.0
+59224,Médico,64,Não,Sim,Porto Alegre,SP,Feminino,248.0
+122516,Médico,50,Sim,Sim,São Paulo,MG,Masculino,297.0
+117945,Professor,22,Não,Não,Porto Alegre,SP,Masculino,110.0
+33224,Engenheiro,65,Sim,Não,Curitiba,RS,Feminino,230.0
+60738,Bombeiro,36,Sim,Não,Porto Alegre,SP,Feminino,272.0
+45150,Engenheiro,21,Sim,Sim,Curitiba,SP,Feminino,220.0
+83731,Médico,52,Não,Não,Curitiba,SP,Masculino,169.4
+69688,Professor,66,Não,Sim,Belo Horizonte,RJ,Masculino,277.2
+119929,Piloto,34,Sim,Não,Curitiba,RJ,Masculino,284.8
+128618,Professor,61,Não,Não,Curitiba,RS,Masculino,189.2
+93509,Médico,45,Não,Não,Rio de Janeiro,SP,Masculino,154.0
+28577,Professor,47,Não,Sim,São Paulo,PR,Feminino,214.0
+28070,Advogado,46,Não,Sim,Belo Horizonte,RS,Masculino,233.2
+146161,Professor,63,Sim,Não,Belo Horizonte,SP,Feminino,226.0
+28666,Médico,23,Sim,Sim,Belo Horizonte,SP,Feminino,220.0
+77761,Policial,52,Não,Não,Rio de Janeiro,RJ,Masculino,269.4
+141178,Advogado,58,Sim,Sim,Curitiba,RS,Feminino,286.0
+56368,Professor,54,Não,Sim,São Paulo,SP,Masculino,250.8
+26783,Bombeiro,41,Não,Sim,Porto Alegre,SP,Feminino,302.0
+131530,Bombeiro,46,Sim,Não,Curitiba,RS,Masculino,311.2
+61914,Professor,66,Sim,Sim,Rio de Janeiro,PR,Masculino,332.2
+90507,Policial,63,Sim,Sim,Curitiba,RS,Feminino,396.0
+147738,Piloto,48,Não,Não,Curitiba,RS,Masculino,260.6
+99026,Médico,52,Sim,Não,Rio de Janeiro,PR,Feminino,204.0
+135893,Bombeiro,50,Não,Não,Belo Horizonte,RS,Masculino,265.0
+131255,Piloto,69,Sim,Não,Belo Horizonte,SP,Masculino,361.8
+130616,Professor,38,Sim,Sim,São Paulo,RS,Masculino,270.6
+87526,Piloto,49,Não,Sim,São Paulo,PR,Feminino,318.0
+90835,Advogado,40,Não,Sim,Belo Horizonte,MG,Feminino,200.0
+65765,Engenheiro,50,Não,Sim,Porto Alegre,RS,Masculino,242.0
+39956,Bombeiro,20,Não,Sim,Curitiba,RJ,Feminino,270.0
+107895,Professor,35,Não,Não,Porto Alegre,SP,Masculino,132.0
+66240,Médico,42,Não,Sim,Curitiba,SP,Feminino,204.0
+141008,Policial,59,Não,Sim,Belo Horizonte,RJ,Feminino,338.0
+57148,Advogado,48,Não,Sim,São Paulo,RJ,Masculino,237.6
+114270,Professor,20,Sim,Não,São Paulo,RS,Masculino,165.0
+147978,Médico,57,Não,Não,Porto Alegre,RJ,Masculino,180.4
+24757,Policial,63,Não,Sim,São Paulo,MG,Masculino,370.6
+39097,Policial,41,Sim,Não,Belo Horizonte,PR,Masculino,300.2
+30395,Professor,67,Não,Não,Porto Alegre,RJ,Feminino,184.0
+36241,Advogado,49,Sim,Não,Curitiba,RJ,Feminino,198.0
+123892,Piloto,64,Sim,Não,São Paulo,MG,Masculino,350.8
+47696,Piloto,39,Não,Não,Rio de Janeiro,SP,Masculino,240.8
+135654,Policial,40,Sim,Não,São Paulo,SP,Masculino,298.0
+90480,Piloto,19,Não,Não,Curitiba,RS,Feminino,200.0
+66163,Engenheiro,44,Sim,Sim,Porto Alegre,MG,Masculino,283.8
+39816,Policial,59,Sim,Sim,Curitiba,PR,Masculino,416.8
+69840,Policial,19,Sim,Não,Rio de Janeiro,PR,Feminino,250.0
+122547,Médico,43,Não,Sim,Belo Horizonte,MG,Feminino,206.0
+72853,Piloto,34,Não,Sim,São Paulo,PR,Feminino,288.0
+44917,Advogado,57,Sim,Não,Porto Alegre,SP,Feminino,214.0
+116731,Policial,50,Sim,Sim,Belo Horizonte,PR,Masculino,397.0
+41566,Advogado,26,Não,Não,Curitiba,PR,Feminino,102.0
+95452,Engenheiro,60,Não,Não,Porto Alegre,MG,Feminino,170.0
+82823,Médico,65,Sim,Não,Belo Horizonte,MG,Masculino,253.0
+141392,Professor,56,Sim,Sim,Porto Alegre,PR,Masculino,310.2
+40806,Advogado,46,Não,Sim,Rio de Janeiro,RJ,Masculino,233.2
+95520,Policial,59,Não,Sim,Rio de Janeiro,MG,Feminino,338.0
+21759,Engenheiro,43,Não,Sim,São Paulo,RS,Masculino,226.6
+146092,Bombeiro,52,Não,Não,São Paulo,RS,Feminino,254.0
+61949,Engenheiro,67,Não,Não,Rio de Janeiro,SP,Feminino,184.0
+112374,Engenheiro,42,Sim,Sim,Porto Alegre,PR,Feminino,254.0
+22482,Médico,41,Não,Não,Rio de Janeiro,RJ,Masculino,145.2
+44442,Professor,30,Sim,Não,São Paulo,SP,Feminino,160.0
+53719,Bombeiro,24,Não,Sim,Rio de Janeiro,PR,Masculino,287.0
+78066,Piloto,53,Sim,Não,Rio de Janeiro,MG,Masculino,326.6
+113501,Piloto,62,Não,Sim,Porto Alegre,RS,Masculino,368.4
+22079,Advogado,37,Não,Não,Belo Horizonte,RJ,Feminino,124.0
+22717,Engenheiro,18,Sim,Sim,São Paulo,RS,Feminino,220.0
+79676,Médico,25,Sim,Não,Porto Alegre,MG,Feminino,150.0
+47952,Médico,63,Não,Não,Rio de Janeiro,PR,Masculino,193.6
+106444,Piloto,33,Não,Sim,Rio de Janeiro,MG,Feminino,286.0
+62460,Advogado,31,Não,Sim,Belo Horizonte,MG,Feminino,182.0
+110397,Advogado,29,Não,Sim,São Paulo,RS,Feminino,178.0
+92847,Advogado,68,Não,Sim,São Paulo,RJ,Feminino,256.0
+113607,Bombeiro,40,Sim,Não,Curitiba,MG,Feminino,280.0
+109106,Professor,32,Sim,Não,São Paulo,RS,Masculino,180.4
+38449,Bombeiro,45,Não,Sim,Belo Horizonte,RJ,Masculino,331.0
+53536,Policial,51,Sim,Não,Curitiba,PR,Masculino,322.2
+84077,Policial,19,Sim,Sim,Curitiba,PR,Masculino,342.0
+58258,Professor,49,Sim,Sim,Rio de Janeiro,SP,Feminino,268.0
+68302,Piloto,40,Não,Não,Rio de Janeiro,RS,Masculino,243.0
+145937,Professor,39,Sim,Não,São Paulo,RJ,Feminino,178.0
+48865,Médico,68,Não,Sim,Curitiba,MG,Masculino,281.6
+26645,Policial,42,Sim,Sim,Rio de Janeiro,PR,Masculino,379.4
+139771,Engenheiro,39,Não,Sim,Belo Horizonte,RJ,Masculino,217.8
+58000,Engenheiro,39,Sim,Não,Rio de Janeiro,RS,Feminino,178.0
+46737,Piloto,66,Não,Não,Rio de Janeiro,SP,Feminino,282.0
+31485,Médico,69,Não,Não,Curitiba,PR,Masculino,206.8
+58565,Bombeiro,59,Sim,Não,Curitiba,RJ,Feminino,318.0
+45522,Médico,23,Não,Sim,Porto Alegre,RJ,Masculino,187.0
+139614,Engenheiro,32,Não,Sim,Belo Horizonte,RJ,Masculino,202.4
+85155,Engenheiro,60,Não,Sim,Curitiba,RS,Masculino,264.0
+75168,Policial,54,Não,Sim,São Paulo,RS,Feminino,328.0
+72487,Médico,50,Não,Sim,Belo Horizonte,RS,Masculino,242.0
+149948,Médico,25,Não,Sim,Belo Horizonte,MG,Masculino,187.0
+32342,Engenheiro,61,Não,Não,Curitiba,RJ,Masculino,189.2
+60806,Bombeiro,61,Não,Não,Belo Horizonte,PR,Feminino,272.0
+68770,Piloto,22,Sim,Sim,Curitiba,RS,Masculino,342.0
+98623,Advogado,56,Sim,Sim,Rio de Janeiro,RS,Feminino,282.0
+123177,Piloto,21,Não,Não,Porto Alegre,RJ,Masculino,210.0
+119785,Médico,23,Não,Não,Rio de Janeiro,RS,Feminino,100.0
+95629,Piloto,62,Sim,Não,Curitiba,MG,Masculino,346.4
+140993,Engenheiro,49,Sim,Não,Curitiba,MG,Masculino,217.8
+72603,Engenheiro,69,Sim,Sim,Rio de Janeiro,RS,Feminino,308.0
+146944,Médico,47,Não,Sim,São Paulo,RJ,Feminino,214.0
+132726,Médico,64,Sim,Sim,São Paulo,RJ,Masculino,327.8
+101974,Advogado,52,Não,Sim,São Paulo,RJ,Feminino,224.0
+125947,Advogado,57,Não,Sim,Curitiba,SP,Masculino,257.4
+46399,Policial,69,Sim,Não,Belo Horizonte,RS,Masculino,361.8
+148177,Médico,33,Não,Sim,Curitiba,RJ,Masculino,204.6
+105382,Bombeiro,30,Não,Não,Belo Horizonte,MG,Feminino,210.0
+101244,Piloto,67,Não,Sim,Rio de Janeiro,PR,Masculino,379.4
+129575,Médico,59,Não,Sim,Porto Alegre,PR,Feminino,238.0
+135520,Professor,47,Sim,Sim,Belo Horizonte,RJ,Masculino,290.4
+130904,Policial,36,Sim,Sim,São Paulo,PR,Feminino,342.0
+96534,Professor,34,Não,Sim,Curitiba,PR,Feminino,188.0
+75106,Engenheiro,36,Não,Não,Rio de Janeiro,SP,Masculino,134.2
+132599,Advogado,45,Sim,Não,São Paulo,MG,Feminino,190.0
+50678,Piloto,43,Não,Não,Rio de Janeiro,MG,Masculino,249.6
+96218,Médico,54,Sim,Sim,Porto Alegre,SP,Masculino,305.8
+83230,Professor,43,Não,Sim,Curitiba,SP,Masculino,226.6
+134684,Piloto,40,Não,Não,Curitiba,PR,Masculino,243.0
+94055,Engenheiro,26,Sim,Sim,Porto Alegre,RS,Masculino,244.2
+76373,Advogado,29,Sim,Sim,Curitiba,PR,Feminino,228.0
+51480,Bombeiro,18,Sim,Não,Belo Horizonte,SP,Masculino,265.0
+105230,Policial,18,Sim,Sim,Rio de Janeiro,MG,Feminino,320.0
+88836,Piloto,64,Não,Não,São Paulo,PR,Feminino,278.0
+92258,Piloto,51,Sim,Sim,Porto Alegre,RS,Masculino,399.2
+59986,Bombeiro,49,Não,Não,Belo Horizonte,PR,Feminino,248.0
+44160,Piloto,65,Sim,Sim,São Paulo,RJ,Masculino,430.0
+105595,Engenheiro,42,Sim,Sim,São Paulo,PR,Feminino,254.0
+121358,Engenheiro,57,Não,Não,Porto Alegre,SP,Feminino,164.0
+99111,Bombeiro,62,Sim,Sim,Belo Horizonte,MG,Feminino,394.0
+84929,Policial,18,Sim,Sim,São Paulo,MG,Masculino,342.0
+93506,Médico,33,Sim,Não,São Paulo,SP,Feminino,166.0
+54911,Professor,56,Sim,Sim,Belo Horizonte,RJ,Masculino,310.2
+107127,Médico,22,Não,Não,Curitiba,SP,Feminino,100.0
+51821,Piloto,39,Não,Sim,São Paulo,PR,Feminino,298.0
+95039,Professor,46,Sim,Sim,Rio de Janeiro,SP,Feminino,262.0
+80535,Bombeiro,20,Sim,Sim,Belo Horizonte,SP,Feminino,320.0
+133453,Bombeiro,29,Sim,Sim,São Paulo,RJ,Masculino,350.8
+104458,Policial,43,Não,Não,Porto Alegre,PR,Masculino,249.6
+32175,Professor,33,Não,Sim,Rio de Janeiro,RS,Feminino,186.0
+139235,Engenheiro,68,Não,Não,São Paulo,RS,Feminino,186.0
+74771,Professor,54,Não,Sim,Rio de Janeiro,MG,Masculino,250.8
+126660,Piloto,39,Sim,Sim,Rio de Janeiro,SP,Masculino,372.8
+147157,Engenheiro,46,Sim,Sim,Curitiba,MG,Masculino,288.2
+141300,Advogado,31,Sim,Sim,Rio de Janeiro,RJ,Masculino,255.2
+106925,Advogado,45,Não,Não,Curitiba,RS,Feminino,140.0
+133374,Advogado,22,Sim,Não,Belo Horizonte,SP,Feminino,150.0
+86358,Bombeiro,64,Não,Não,Curitiba,RJ,Masculino,295.8
+37327,Professor,66,Não,Não,Porto Alegre,RJ,Masculino,200.2
+67057,Advogado,47,Sim,Sim,São Paulo,SP,Masculino,290.4
+26150,Médico,63,Sim,Não,Belo Horizonte,RJ,Masculino,248.6
+24425,Policial,69,Sim,Não,Belo Horizonte,SP,Masculino,361.8
+143654,Médico,22,Não,Sim,Porto Alegre,SP,Masculino,187.0
+36032,Advogado,29,Não,Sim,Curitiba,PR,Feminino,178.0
+22198,Policial,33,Sim,Sim,São Paulo,MG,Feminino,336.0
+80500,Piloto,43,Sim,Sim,Curitiba,RJ,Feminino,356.0
+73394,Médico,43,Não,Não,Rio de Janeiro,RJ,Masculino,149.6
+40079,Professor,65,Sim,Não,Curitiba,PR,Masculino,253.0
+56220,Professor,38,Não,Sim,Belo Horizonte,PR,Masculino,215.6
+61874,Médico,56,Não,Sim,São Paulo,PR,Feminino,232.0
+33859,Advogado,53,Sim,Sim,Curitiba,RS,Masculino,303.6
+70460,Professor,50,Sim,Não,São Paulo,RS,Masculino,220.0
+51419,Piloto,47,Sim,Não,São Paulo,RS,Feminino,294.0
+138865,Engenheiro,54,Sim,Sim,Rio de Janeiro,SP,Masculino,305.8
+28705,Advogado,40,Não,Sim,Rio de Janeiro,RJ,Feminino,200.0
+62880,Piloto,27,Não,Não,Belo Horizonte,MG,Feminino,204.0
+149838,Policial,22,Não,Sim,Porto Alegre,SP,Masculino,287.0
+43236,Piloto,53,Sim,Sim,São Paulo,RJ,Feminino,376.0
+107955,Advogado,51,Não,Não,Porto Alegre,RJ,Masculino,167.2
+105514,Policial,69,Sim,Sim,Belo Horizonte,PR,Feminino,408.0
+123145,Advogado,48,Sim,Não,São Paulo,PR,Masculino,215.6
+35358,Professor,27,Sim,Sim,São Paulo,SP,Feminino,224.0
+119713,Engenheiro,36,Sim,Sim,Porto Alegre,PR,Masculino,266.2
+114914,Advogado,49,Sim,Não,Curitiba,RJ,Feminino,198.0
+122870,Advogado,18,Sim,Não,Rio de Janeiro,PR,Feminino,150.0
+96918,Professor,22,Não,Sim,Curitiba,RS,Feminino,170.0
+139179,Bombeiro,62,Sim,Não,Porto Alegre,PR,Masculino,346.4
+136243,Professor,21,Não,Sim,Rio de Janeiro,RJ,Masculino,187.0
+34596,Policial,33,Não,Sim,Curitiba,SP,Feminino,286.0
+53572,Professor,41,Sim,Não,Rio de Janeiro,MG,Masculino,200.2
+98757,Professor,33,Sim,Sim,São Paulo,PR,Feminino,236.0
+21279,Engenheiro,19,Sim,Sim,Curitiba,RJ,Masculino,242.0
+83197,Professor,66,Não,Não,Rio de Janeiro,MG,Feminino,182.0
+131496,Advogado,45,Sim,Não,Rio de Janeiro,MG,Masculino,209.0
+82516,Engenheiro,49,Não,Sim,Rio de Janeiro,RS,Feminino,218.0
+27083,Médico,44,Sim,Não,Curitiba,MG,Feminino,188.0
+140674,Bombeiro,37,Sim,Não,Belo Horizonte,RJ,Feminino,274.0
+140307,Engenheiro,41,Não,Não,Curitiba,RJ,Feminino,132.0
+146457,Policial,29,Não,Não,Porto Alegre,PR,Masculino,218.8
+129397,Médico,67,Sim,Sim,Curitiba,PR,Feminino,304.0
+37771,Engenheiro,52,Não,Sim,Rio de Janeiro,PR,Masculino,246.4
+49975,Engenheiro,50,Não,Sim,São Paulo,MG,Masculino,242.0
+65648,Bombeiro,50,Não,Não,Curitiba,MG,Feminino,250.0
+145641,Advogado,68,Não,Não,Curitiba,RS,Masculino,204.6
+68285,Policial,60,Não,Não,Rio de Janeiro,PR,Masculino,287.0
+39063,Piloto,54,Sim,Não,São Paulo,SP,Masculino,328.8
+87642,Piloto,29,Sim,Não,São Paulo,RS,Feminino,258.0
+110093,Engenheiro,20,Não,Não,Porto Alegre,SP,Masculino,110.0
+134390,Professor,18,Sim,Não,Curitiba,MG,Masculino,165.0
+106143,Policial,50,Sim,Sim,São Paulo,RS,Feminino,370.0
+57599,Médico,57,Não,Sim,São Paulo,RS,Feminino,234.0
+71920,Professor,27,Sim,Não,Belo Horizonte,RJ,Masculino,169.4
+48529,Professor,60,Não,Não,Belo Horizonte,MG,Feminino,170.0
+55954,Policial,61,Não,Não,São Paulo,MG,Masculino,289.2
+47856,Advogado,46,Sim,Sim,Porto Alegre,RS,Masculino,288.2
+22573,Engenheiro,30,Não,Sim,São Paulo,MG,Masculino,198.0
+98344,Engenheiro,29,Não,Não,Rio de Janeiro,RS,Feminino,108.0
+55367,Engenheiro,48,Não,Não,Curitiba,RJ,Masculino,160.6
+122337,Engenheiro,63,Não,Sim,Porto Alegre,RS,Feminino,246.0
+126732,Piloto,19,Não,Sim,Rio de Janeiro,MG,Feminino,270.0
+119608,Engenheiro,68,Sim,Sim,Porto Alegre,MG,Masculino,336.6
+80774,Piloto,67,Sim,Sim,Rio de Janeiro,RS,Feminino,404.0
+43752,Piloto,52,Não,Não,Curitiba,RS,Feminino,254.0
+75029,Advogado,40,Não,Sim,Curitiba,RS,Feminino,200.0
+37685,Engenheiro,34,Sim,Sim,Belo Horizonte,PR,Feminino,238.0
+71693,Bombeiro,43,Não,Não,Rio de Janeiro,MG,Feminino,236.0
+136739,Médico,25,Sim,Sim,Belo Horizonte,MG,Masculino,242.0
+75961,Professor,46,Não,Sim,Rio de Janeiro,PR,Feminino,212.0
+126937,Piloto,43,Não,Sim,Belo Horizonte,RS,Masculino,326.6
+144956,Policial,27,Não,Não,Curitiba,RJ,Masculino,214.4
+96908,Policial,43,Não,Sim,Porto Alegre,RS,Masculino,326.6
+145537,Médico,51,Não,Não,Belo Horizonte,RS,Masculino,167.2
+146678,Policial,68,Não,Não,Rio de Janeiro,PR,Masculino,304.6
+94532,Bombeiro,58,Não,Sim,Rio de Janeiro,MG,Masculino,359.6
+101994,Policial,24,Sim,Sim,Curitiba,RS,Feminino,320.0
+76133,Professor,21,Sim,Sim,Rio de Janeiro,MG,Feminino,220.0
+117425,Professor,67,Sim,Sim,São Paulo,SP,Feminino,304.0
+145055,Piloto,62,Não,Não,Porto Alegre,MG,Masculino,291.4
+81268,Engenheiro,28,Não,Sim,Belo Horizonte,RJ,Feminino,176.0
+112201,Advogado,46,Não,Sim,Porto Alegre,RJ,Feminino,212.0
+58243,Bombeiro,53,Não,Sim,Curitiba,RS,Feminino,326.0
+77384,Piloto,42,Não,Não,Belo Horizonte,MG,Masculino,247.4
+51653,Bombeiro,38,Não,Sim,Belo Horizonte,RS,Feminino,296.0
+46657,Engenheiro,53,Não,Sim,São Paulo,PR,Masculino,248.6
+59952,Policial,27,Sim,Não,Curitiba,RJ,Feminino,254.0
+42180,Policial,54,Não,Não,Rio de Janeiro,RS,Masculino,273.8
+117432,Advogado,26,Sim,Sim,São Paulo,PR,Masculino,244.2
+141829,Engenheiro,41,Sim,Sim,São Paulo,RS,Masculino,277.2
+148377,Piloto,52,Não,Sim,Porto Alegre,MG,Feminino,324.0
+98411,Advogado,66,Não,Sim,Porto Alegre,MG,Feminino,252.0
+21622,Engenheiro,52,Sim,Sim,Porto Alegre,MG,Masculino,301.4
+68756,Médico,65,Sim,Não,São Paulo,MG,Feminino,230.0
+60809,Professor,53,Não,Não,Rio de Janeiro,SP,Masculino,171.6
+36725,Advogado,35,Não,Sim,Belo Horizonte,PR,Masculino,209.0
+81396,Advogado,66,Sim,Sim,Porto Alegre,PR,Feminino,302.0
+71226,Piloto,56,Não,Não,Rio de Janeiro,MG,Feminino,262.0
+126296,Bombeiro,49,Não,Sim,Curitiba,SP,Feminino,318.0
+101182,Médico,41,Não,Sim,Porto Alegre,MG,Masculino,222.2
+102565,Piloto,40,Sim,Sim,Belo Horizonte,SP,Masculino,375.0
+49402,Engenheiro,49,Sim,Sim,Curitiba,MG,Feminino,268.0
+24263,Engenheiro,54,Sim,Sim,Curitiba,RJ,Masculino,305.8
+143489,Engenheiro,29,Não,Não,Belo Horizonte,RJ,Feminino,108.0
+116523,Engenheiro,66,Não,Sim,Porto Alegre,RS,Masculino,277.2
+66828,Bombeiro,30,Sim,Sim,São Paulo,MG,Feminino,330.0
+140824,Médico,40,Sim,Sim,Belo Horizonte,PR,Feminino,250.0
+67924,Policial,42,Sim,Não,Belo Horizonte,RS,Masculino,302.4
+94182,Professor,52,Não,Não,Belo Horizonte,RJ,Feminino,154.0
+113065,Bombeiro,58,Sim,Não,Curitiba,MG,Feminino,316.0
+79052,Bombeiro,47,Sim,Não,Rio de Janeiro,RS,Masculino,313.4
+31664,Policial,34,Não,Sim,São Paulo,MG,Feminino,288.0
+55737,Policial,66,Não,Não,Porto Alegre,RJ,Masculino,300.2
+121332,Professor,37,Não,Sim,Porto Alegre,RS,Feminino,194.0
+109563,Professor,65,Sim,Sim,Rio de Janeiro,RJ,Masculino,330.0
+49373,Policial,42,Não,Não,Belo Horizonte,SP,Feminino,234.0
+137369,Engenheiro,39,Não,Não,São Paulo,RJ,Feminino,128.0
+56397,Bombeiro,30,Sim,Não,Porto Alegre,MG,Feminino,260.0
+148575,Piloto,36,Não,Não,Porto Alegre,PR,Feminino,222.0
+106145,Professor,66,Sim,Não,Belo Horizonte,RJ,Masculino,255.2
+121371,Professor,53,Sim,Sim,Rio de Janeiro,PR,Masculino,303.6
+58709,Policial,29,Não,Não,São Paulo,SP,Masculino,218.8
+136074,Médico,58,Não,Não,Rio de Janeiro,RS,Masculino,182.6
+81120,Piloto,36,Não,Não,Rio de Janeiro,RS,Masculino,234.2
+39250,Piloto,29,Não,Sim,São Paulo,PR,Masculino,295.8
+41172,Professor,26,Não,Não,São Paulo,RS,Masculino,112.2
+31555,Engenheiro,24,Não,Sim,Porto Alegre,RJ,Feminino,170.0
+107410,Médico,45,Sim,Não,Porto Alegre,PR,Feminino,190.0
+98617,Piloto,31,Sim,Não,São Paulo,MG,Feminino,262.0
+73276,Professor,48,Não,Sim,Curitiba,RJ,Feminino,216.0
+77492,Piloto,69,Sim,Não,Porto Alegre,RJ,Masculino,361.8
+73002,Advogado,36,Não,Sim,Curitiba,RJ,Masculino,211.2
+140103,Médico,64,Sim,Sim,São Paulo,MG,Masculino,327.8
+144938,Médico,33,Sim,Sim,Porto Alegre,SP,Feminino,236.0
+109599,Advogado,22,Sim,Não,Rio de Janeiro,RS,Masculino,165.0
+92355,Bombeiro,52,Não,Não,São Paulo,PR,Feminino,254.0
+111248,Advogado,29,Sim,Não,Belo Horizonte,SP,Masculino,173.8
+44762,Policial,42,Não,Sim,Curitiba,PR,Masculino,324.4
+31046,Policial,69,Sim,Não,São Paulo,RS,Masculino,361.8
+116999,Professor,38,Sim,Sim,São Paulo,MG,Masculino,270.6
+144130,Médico,53,Sim,Não,Porto Alegre,RJ,Feminino,206.0
+136021,Bombeiro,40,Sim,Sim,Porto Alegre,RJ,Feminino,350.0
+48769,Bombeiro,33,Sim,Sim,Porto Alegre,MG,Masculino,359.6
+73302,Piloto,56,Não,Sim,Belo Horizonte,SP,Feminino,332.0
+43150,Piloto,62,Não,Não,Porto Alegre,SP,Masculino,291.4
+88247,Advogado,59,Sim,Sim,São Paulo,PR,Masculino,316.8
+24853,Bombeiro,56,Sim,Sim,Porto Alegre,MG,Masculino,410.2
+114613,Advogado,31,Sim,Sim,Rio de Janeiro,SP,Masculino,255.2
+140900,Advogado,48,Sim,Sim,Porto Alegre,MG,Feminino,266.0
+109399,Piloto,22,Não,Sim,Belo Horizonte,RS,Masculino,287.0
+41792,Médico,52,Sim,Sim,Rio de Janeiro,RJ,Masculino,301.4
+79129,Advogado,40,Não,Não,São Paulo,RJ,Feminino,130.0
+126019,Engenheiro,46,Sim,Não,São Paulo,RJ,Masculino,211.2
+94478,Médico,60,Não,Sim,Curitiba,MG,Feminino,240.0
+133811,Bombeiro,28,Sim,Não,Rio de Janeiro,MG,Masculino,271.6
+134130,Bombeiro,35,Sim,Não,Curitiba,PR,Masculino,287.0
+87298,Advogado,64,Não,Sim,Rio de Janeiro,RJ,Masculino,272.8
+51987,Médico,29,Sim,Sim,Rio de Janeiro,PR,Masculino,250.8
+35850,Piloto,26,Sim,Sim,Belo Horizonte,RJ,Masculino,344.2
+32112,Piloto,27,Sim,Não,Curitiba,PR,Masculino,269.4
+141789,Policial,61,Não,Sim,Belo Horizonte,PR,Feminino,342.0
+44058,Bombeiro,34,Sim,Não,Rio de Janeiro,RS,Masculino,284.8
+65420,Professor,55,Sim,Sim,São Paulo,PR,Feminino,280.0
+58890,Policial,24,Não,Não,Rio de Janeiro,MG,Feminino,200.0
+86017,Piloto,63,Não,Sim,Belo Horizonte,PR,Masculino,370.6
+67304,Médico,30,Não,Sim,Curitiba,RJ,Feminino,180.0
+52921,Piloto,57,Sim,Não,Curitiba,PR,Masculino,335.4
+125921,Médico,59,Sim,Não,Belo Horizonte,SP,Feminino,218.0
+21524,Policial,26,Sim,Não,Curitiba,RJ,Masculino,267.2
+120424,Bombeiro,67,Não,Não,Porto Alegre,SP,Feminino,284.0
+35048,Piloto,44,Sim,Não,São Paulo,RJ,Feminino,288.0
+55111,Advogado,19,Sim,Não,São Paulo,MG,Masculino,165.0
+57904,Médico,22,Não,Sim,São Paulo,MG,Feminino,170.0
+74912,Bombeiro,46,Não,Não,Curitiba,MG,Masculino,256.2
+54008,Professor,54,Não,Sim,Curitiba,SP,Masculino,250.8
+20060,Médico,55,Não,Sim,Rio de Janeiro,RS,Masculino,253.0
+94666,Policial,36,Não,Não,Rio de Janeiro,RJ,Masculino,234.2
+103559,Professor,25,Sim,Sim,São Paulo,MG,Masculino,242.0
+75337,Professor,65,Não,Não,Porto Alegre,RJ,Feminino,180.0
+130616,Engenheiro,62,Sim,Não,Rio de Janeiro,SP,Feminino,224.0
+33350,Piloto,18,Sim,Sim,Rio de Janeiro,RS,Feminino,320.0
+44354,Médico,39,Não,Sim,Curitiba,SP,Masculino,217.8
+65186,Professor,69,Não,Não,Porto Alegre,RJ,Feminino,188.0
+48145,Engenheiro,34,Não,Não,São Paulo,RS,Feminino,118.0
+54020,Policial,24,Sim,Sim,Rio de Janeiro,RS,Feminino,320.0
+106123,Bombeiro,42,Não,Sim,Porto Alegre,SP,Feminino,304.0
+126667,Advogado,62,Não,Sim,Porto Alegre,MG,Feminino,244.0
+95186,Advogado,21,Não,Sim,São Paulo,RJ,Masculino,187.0
+105469,Médico,53,Não,Não,Porto Alegre,PR,Masculino,171.6
+40581,Professor,23,Não,Não,Porto Alegre,PR,Feminino,100.0
+108929,Advogado,48,Sim,Não,Porto Alegre,SP,Masculino,215.6
+43051,Piloto,36,Sim,Não,Rio de Janeiro,RJ,Masculino,289.2
+71474,Advogado,61,Sim,Sim,São Paulo,RJ,Feminino,292.0
+111748,Advogado,56,Não,Sim,Porto Alegre,SP,Feminino,232.0
+145995,Advogado,44,Não,Não,Porto Alegre,RJ,Masculino,151.8
+134618,Engenheiro,27,Não,Não,Rio de Janeiro,MG,Feminino,104.0
+89626,Professor,43,Sim,Não,São Paulo,SP,Masculino,204.6
+26960,Piloto,36,Não,Não,Curitiba,MG,Masculino,234.2
+55772,Professor,56,Não,Não,Rio de Janeiro,RJ,Feminino,162.0
+41520,Médico,20,Não,Não,São Paulo,SP,Masculino,110.0
+69481,Médico,62,Sim,Não,Porto Alegre,RJ,Masculino,246.4
+56408,Médico,30,Não,Não,São Paulo,SP,Masculino,121.0
+114006,Policial,67,Sim,Não,São Paulo,RJ,Feminino,334.0
+148496,Advogado,45,Não,Sim,São Paulo,MG,Feminino,210.0
+77134,Policial,37,Sim,Não,Curitiba,MG,Feminino,274.0
+40491,Engenheiro,45,Sim,Sim,São Paulo,RJ,Feminino,260.0
+21341,Médico,25,Sim,Sim,Curitiba,SP,Masculino,242.0
+64623,Piloto,58,Não,Não,Porto Alegre,PR,Feminino,266.0
+110327,Professor,56,Não,Não,Curitiba,MG,Feminino,162.0
+20338,Advogado,18,Sim,Sim,Porto Alegre,MG,Feminino,220.0
+91431,Bombeiro,20,Sim,Sim,Porto Alegre,PR,Feminino,320.0
+32254,Piloto,30,Não,Não,Curitiba,RJ,Masculino,221.0
+71860,Advogado,45,Não,Sim,Rio de Janeiro,SP,Masculino,231.0
+31344,Policial,66,Sim,Não,Belo Horizonte,RJ,Masculino,355.2
+21750,Policial,42,Não,Não,São Paulo,RS,Feminino,234.0
+74756,Piloto,50,Não,Não,Belo Horizonte,MG,Feminino,250.0
+87957,Policial,55,Não,Sim,São Paulo,RS,Masculino,353.0
+125423,Médico,23,Não,Sim,São Paulo,MG,Feminino,170.0
+78053,Engenheiro,61,Sim,Não,Porto Alegre,MG,Feminino,222.0
+90855,Professor,62,Não,Sim,São Paulo,RS,Masculino,268.4
+35896,Engenheiro,49,Não,Sim,São Paulo,RS,Masculino,239.8
+75761,Advogado,62,Sim,Sim,Curitiba,RJ,Feminino,294.0
+82552,Professor,64,Sim,Sim,Belo Horizonte,RS,Feminino,298.0
+140075,Professor,38,Não,Sim,Curitiba,RJ,Feminino,196.0
+97454,Engenheiro,33,Não,Sim,São Paulo,RJ,Masculino,204.6
+146522,Piloto,38,Não,Sim,Porto Alegre,RJ,Masculino,315.6
+138681,Professor,28,Não,Não,Curitiba,MG,Masculino,116.6
+110600,Engenheiro,54,Sim,Sim,Curitiba,MG,Masculino,305.8
+142732,Professor,53,Sim,Sim,Rio de Janeiro,RS,Feminino,276.0
+132153,Bombeiro,52,Sim,Sim,São Paulo,MG,Masculino,401.4
+142926,Piloto,36,Não,Sim,Porto Alegre,RS,Masculino,311.2
+47935,Médico,37,Não,Sim,Curitiba,MG,Feminino,194.0
+57641,Professor,35,Não,Sim,Curitiba,SP,Feminino,190.0
+49711,Bombeiro,64,Não,Sim,Porto Alegre,SP,Feminino,348.0
+90342,Médico,58,Sim,Sim,São Paulo,RS,Masculino,314.6
+126896,Médico,66,Sim,Não,Rio de Janeiro,MG,Feminino,232.0
+32182,Advogado,31,Não,Sim,Curitiba,MG,Feminino,182.0
+107833,Professor,32,Sim,Sim,Rio de Janeiro,RJ,Masculino,257.4
+76276,Engenheiro,48,Não,Sim,Belo Horizonte,PR,Masculino,237.6
+39541,Professor,18,Não,Sim,São Paulo,RS,Feminino,170.0
+114457,Bombeiro,20,Sim,Não,Belo Horizonte,PR,Masculino,265.0
+102310,Médico,33,Não,Não,Belo Horizonte,PR,Feminino,116.0
+64813,Professor,40,Não,Não,Belo Horizonte,RS,Feminino,130.0
+57198,Engenheiro,28,Sim,Não,São Paulo,MG,Masculino,171.6
+28820,Advogado,29,Não,Não,São Paulo,RS,Feminino,108.0
+44070,Professor,27,Não,Não,Porto Alegre,PR,Masculino,114.4
+89768,Piloto,49,Sim,Não,Rio de Janeiro,MG,Masculino,317.8
+31122,Advogado,33,Não,Não,Rio de Janeiro,SP,Masculino,127.6
+100559,Engenheiro,25,Sim,Não,Porto Alegre,RS,Feminino,150.0
+93543,Bombeiro,55,Não,Não,Porto Alegre,RS,Masculino,276.0
+103441,Médico,29,Sim,Não,Belo Horizonte,MG,Masculino,173.8
+61786,Professor,41,Sim,Não,Porto Alegre,SP,Feminino,182.0
+114934,Engenheiro,45,Sim,Não,Curitiba,SP,Feminino,190.0
+119804,Advogado,25,Não,Não,Rio de Janeiro,MG,Feminino,100.0
+26737,Piloto,45,Sim,Não,Porto Alegre,RJ,Feminino,290.0
+56062,Engenheiro,53,Sim,Não,Curitiba,RS,Masculino,226.6
+74237,Policial,43,Sim,Sim,Curitiba,RS,Masculino,381.6
+71571,Piloto,25,Sim,Não,Curitiba,PR,Masculino,265.0
+45510,Advogado,67,Sim,Sim,Curitiba,MG,Feminino,304.0
+39426,Bombeiro,45,Não,Não,Belo Horizonte,PR,Feminino,240.0
+57265,Médico,45,Não,Não,Curitiba,PR,Masculino,154.0
+37850,Advogado,54,Não,Sim,Belo Horizonte,SP,Feminino,228.0
+138249,Bombeiro,58,Não,Não,Belo Horizonte,RS,Feminino,266.0
+86150,Professor,53,Não,Sim,Curitiba,PR,Masculino,248.6
+107312,Engenheiro,44,Não,Sim,Rio de Janeiro,SP,Masculino,228.8
+109613,Policial,34,Não,Sim,Curitiba,MG,Feminino,288.0
+94910,Piloto,26,Sim,Não,Curitiba,PR,Feminino,252.0
+72375,Piloto,50,Não,Não,Curitiba,RS,Feminino,250.0
+141826,Engenheiro,37,Sim,Não,Rio de Janeiro,PR,Masculino,191.4
+55435,Policial,30,Sim,Sim,São Paulo,MG,Masculino,353.0
+116443,Engenheiro,45,Não,Sim,São Paulo,PR,Masculino,231.0
+77132,Professor,65,Sim,Não,Belo Horizonte,RS,Masculino,253.0
+98945,Bombeiro,46,Sim,Não,Belo Horizonte,SP,Masculino,311.2
+102050,Advogado,30,Sim,Não,Rio de Janeiro,RS,Feminino,160.0
+149828,Piloto,63,Sim,Não,Porto Alegre,SP,Feminino,326.0
+115402,Professor,52,Não,Não,São Paulo,RJ,Feminino,154.0
+22983,Bombeiro,23,Não,Sim,Belo Horizonte,RS,Masculino,287.0
+117241,Professor,35,Não,Sim,São Paulo,RS,Masculino,209.0
+40662,Policial,68,Não,Sim,Rio de Janeiro,MG,Masculino,381.6
+43510,Piloto,22,Não,Não,Rio de Janeiro,PR,Feminino,200.0
+98187,Advogado,64,Não,Sim,Porto Alegre,SP,Masculino,272.8
+60998,Engenheiro,42,Não,Sim,Porto Alegre,SP,Masculino,224.4
+76846,Engenheiro,19,Não,Sim,Rio de Janeiro,MG,Feminino,170.0
+114071,Bombeiro,27,Não,Sim,Belo Horizonte,MG,Masculino,291.4
+26640,Advogado,47,Não,Sim,São Paulo,PR,Feminino,214.0
+64547,Médico,67,Sim,Não,Curitiba,PR,Masculino,257.4
+74620,Policial,62,Não,Sim,Porto Alegre,RS,Masculino,368.4
+35317,Bombeiro,22,Sim,Não,Curitiba,RJ,Feminino,250.0
+135608,Médico,50,Sim,Não,Belo Horizonte,PR,Feminino,200.0
+27564,Professor,18,Sim,Não,Porto Alegre,MG,Feminino,150.0
+47345,Policial,35,Sim,Não,Curitiba,PR,Feminino,270.0
+133824,Professor,49,Não,Não,Belo Horizonte,SP,Feminino,148.0
+114223,Advogado,64,Sim,Sim,São Paulo,RJ,Feminino,298.0
+143372,Piloto,66,Não,Sim,Belo Horizonte,RS,Masculino,377.2
+99273,Policial,28,Não,Não,Porto Alegre,SP,Masculino,216.6
+94859,Médico,38,Sim,Não,Rio de Janeiro,SP,Feminino,176.0
+100765,Piloto,43,Não,Não,São Paulo,RJ,Masculino,249.6
+130017,Engenheiro,42,Sim,Sim,Curitiba,RS,Feminino,254.0
+94038,Médico,39,Sim,Não,Porto Alegre,MG,Masculino,195.8
+143618,Bombeiro,44,Não,Sim,Rio de Janeiro,RS,Feminino,308.0
+72393,Engenheiro,66,Não,Não,Belo Horizonte,PR,Masculino,200.2
+86081,Engenheiro,30,Sim,Sim,Rio de Janeiro,SP,Masculino,253.0
+145341,Bombeiro,50,Não,Não,Porto Alegre,PR,Masculino,265.0
+122650,Policial,51,Não,Sim,Porto Alegre,MG,Masculino,344.2
+49430,Engenheiro,58,Não,Não,Rio de Janeiro,PR,Masculino,182.6
+95532,Advogado,52,Sim,Sim,Belo Horizonte,RS,Feminino,274.0
+47788,Médico,18,Sim,Sim,Rio de Janeiro,PR,Feminino,220.0
+115505,Piloto,38,Não,Sim,Porto Alegre,MG,Feminino,296.0
+68543,Engenheiro,65,Não,Sim,Porto Alegre,MG,Masculino,275.0
+33919,Médico,23,Não,Sim,Curitiba,MG,Feminino,170.0
+89346,Professor,45,Não,Sim,Curitiba,RS,Masculino,231.0
+116122,Médico,34,Não,Sim,São Paulo,MG,Masculino,206.8
+59974,Piloto,22,Sim,Não,Porto Alegre,SP,Masculino,265.0
+127309,Médico,48,Não,Não,Curitiba,MG,Feminino,146.0
+36371,Bombeiro,22,Sim,Não,Rio de Janeiro,PR,Masculino,265.0
+65084,Piloto,55,Não,Não,Belo Horizonte,PR,Feminino,260.0
+49629,Policial,20,Sim,Não,Rio de Janeiro,PR,Feminino,250.0
+71184,Professor,40,Não,Sim,Belo Horizonte,RS,Masculino,220.0
+81916,Bombeiro,54,Sim,Sim,Curitiba,PR,Masculino,405.8
+147293,Policial,54,Não,Sim,São Paulo,RS,Feminino,328.0
+93972,Médico,27,Sim,Sim,Rio de Janeiro,RS,Feminino,224.0
+82187,Piloto,27,Sim,Sim,Rio de Janeiro,MG,Feminino,324.0
+32984,Professor,36,Sim,Não,Rio de Janeiro,SP,Feminino,172.0
+53039,Bombeiro,34,Sim,Não,Belo Horizonte,MG,Feminino,268.0
+105431,Policial,38,Sim,Não,Curitiba,MG,Feminino,276.0
+103691,Policial,31,Sim,Não,Rio de Janeiro,RS,Masculino,278.2
+78606,Professor,26,Não,Sim,Rio de Janeiro,RS,Feminino,172.0
+30616,Advogado,63,Sim,Sim,São Paulo,PR,Feminino,296.0
+122665,Médico,18,Não,Sim,São Paulo,PR,Feminino,170.0
+125373,Professor,68,Não,Não,Curitiba,MG,Feminino,186.0
+70072,Policial,62,Não,Sim,Curitiba,RJ,Masculino,368.4
+44574,Engenheiro,30,Não,Não,Porto Alegre,RJ,Masculino,121.0
+23430,Bombeiro,21,Não,Sim,São Paulo,PR,Feminino,270.0
+139123,Professor,18,Sim,Sim,Porto Alegre,RJ,Feminino,220.0
+32676,Advogado,66,Sim,Não,Belo Horizonte,PR,Feminino,232.0
+30816,Policial,57,Sim,Sim,Porto Alegre,RS,Masculino,412.4
+52733,Médico,49,Não,Sim,Rio de Janeiro,MG,Masculino,239.8
+105680,Policial,51,Sim,Não,Porto Alegre,SP,Masculino,322.2
+22050,Médico,45,Sim,Sim,Curitiba,MG,Masculino,286.0
+129996,Professor,48,Sim,Não,Belo Horizonte,PR,Masculino,215.6
+53933,Médico,25,Sim,Sim,Rio de Janeiro,PR,Masculino,242.0
+44951,Piloto,56,Sim,Sim,Porto Alegre,MG,Feminino,382.0
+52413,Piloto,43,Não,Sim,Belo Horizonte,PR,Masculino,326.6
+54801,Piloto,51,Sim,Sim,Belo Horizonte,RJ,Masculino,399.2
+75619,Advogado,20,Não,Sim,Rio de Janeiro,RJ,Feminino,170.0
+52913,Advogado,67,Não,Sim,Porto Alegre,PR,Masculino,279.4
+132573,Engenheiro,29,Não,Sim,Belo Horizonte,PR,Feminino,178.0
+139076,Advogado,18,Não,Sim,Belo Horizonte,RJ,Masculino,187.0
+60600,Professor,61,Não,Não,São Paulo,PR,Feminino,172.0
+77775,Policial,22,Sim,Não,Belo Horizonte,PR,Feminino,250.0
+110816,Policial,47,Sim,Sim,São Paulo,MG,Feminino,364.0
+149972,Engenheiro,47,Sim,Sim,Porto Alegre,SP,Feminino,264.0
+110093,Advogado,34,Não,Não,Porto Alegre,RJ,Feminino,118.0
+132590,Médico,65,Sim,Sim,Porto Alegre,MG,Masculino,330.0
+55400,Engenheiro,64,Sim,Sim,Curitiba,SP,Masculino,327.8
+24494,Médico,40,Não,Não,Porto Alegre,PR,Feminino,130.0
+100688,Médico,32,Não,Sim,Belo Horizonte,PR,Feminino,184.0
+142744,Bombeiro,54,Não,Sim,Rio de Janeiro,MG,Feminino,328.0
+109431,Policial,38,Não,Não,São Paulo,PR,Masculino,238.6
+94691,Piloto,31,Sim,Sim,Curitiba,RS,Feminino,332.0
+117419,Advogado,19,Não,Sim,Porto Alegre,MG,Feminino,170.0
+128730,Médico,28,Não,Não,Porto Alegre,SP,Feminino,106.0
+63001,Bombeiro,68,Sim,Sim,Rio de Janeiro,MG,Feminino,406.0
+87364,Policial,56,Sim,Não,Rio de Janeiro,RJ,Masculino,333.2
+144988,Piloto,55,Não,Sim,Curitiba,MG,Feminino,330.0
+65028,Médico,51,Sim,Sim,São Paulo,PR,Feminino,272.0
+127434,Médico,55,Não,Não,Porto Alegre,PR,Masculino,176.0
+117659,Engenheiro,67,Não,Não,Curitiba,RS,Feminino,184.0
+57573,Engenheiro,51,Sim,Sim,Belo Horizonte,RS,Feminino,272.0
+20806,Policial,35,Sim,Não,Belo Horizonte,RS,Masculino,287.0
+144343,Piloto,47,Não,Não,Curitiba,SP,Masculino,258.4
+76638,Médico,32,Não,Sim,Porto Alegre,RS,Masculino,202.4
+148301,Policial,44,Não,Sim,Curitiba,SP,Feminino,308.0
+146295,Policial,68,Sim,Sim,Porto Alegre,RS,Feminino,406.0
+126506,Professor,51,Não,Não,Rio de Janeiro,SP,Masculino,167.2
+49757,Advogado,69,Não,Não,Curitiba,MG,Masculino,206.8
+54636,Engenheiro,55,Não,Não,Porto Alegre,MG,Masculino,176.0
+100097,Piloto,50,Não,Não,Curitiba,PR,Feminino,250.0
+68280,Médico,41,Não,Sim,Curitiba,SP,Feminino,202.0
+44262,Policial,32,Sim,Não,Porto Alegre,RJ,Masculino,280.4
+100435,Médico,47,Não,Sim,Porto Alegre,PR,Feminino,214.0
+82211,Professor,59,Não,Não,São Paulo,MG,Masculino,184.8
+74842,Piloto,68,Não,Sim,Curitiba,SP,Feminino,356.0
+148583,Policial,34,Não,Sim,Belo Horizonte,RS,Feminino,288.0
+76979,Médico,22,Sim,Sim,Curitiba,RJ,Feminino,220.0
+134524,Engenheiro,46,Sim,Não,Curitiba,MG,Feminino,192.0
+101470,Advogado,21,Sim,Sim,Porto Alegre,PR,Masculino,242.0
+58197,Professor,27,Não,Sim,Curitiba,SP,Feminino,174.0
+61844,Piloto,34,Não,Não,Curitiba,RJ,Feminino,218.0
+84754,Professor,27,Sim,Sim,Belo Horizonte,SP,Masculino,246.4
+121868,Engenheiro,34,Sim,Não,Porto Alegre,RS,Feminino,168.0
+54157,Piloto,37,Sim,Não,Curitiba,PR,Masculino,291.4
+97129,Professor,41,Não,Sim,Rio de Janeiro,SP,Masculino,222.2
+60042,Bombeiro,22,Não,Sim,São Paulo,MG,Feminino,270.0
+81665,Engenheiro,51,Sim,Não,Belo Horizonte,PR,Feminino,202.0
+135512,Engenheiro,23,Sim,Sim,Curitiba,MG,Masculino,242.0
+136953,Engenheiro,19,Sim,Não,Rio de Janeiro,SP,Masculino,165.0
+102856,Bombeiro,30,Não,Não,Curitiba,PR,Masculino,221.0
+47376,Bombeiro,60,Não,Não,Curitiba,MG,Feminino,270.0
+129049,Médico,60,Não,Sim,Porto Alegre,RS,Masculino,264.0
+75554,Policial,65,Sim,Não,Porto Alegre,RS,Masculino,353.0
+34199,Advogado,28,Sim,Sim,Porto Alegre,SP,Masculino,248.6
+138533,Professor,68,Não,Sim,Rio de Janeiro,PR,Feminino,256.0
+101412,Médico,64,Sim,Sim,Curitiba,RJ,Masculino,327.8
+70948,Professor,40,Não,Sim,São Paulo,PR,Feminino,200.0
+93781,Advogado,33,Sim,Não,Belo Horizonte,RS,Feminino,166.0
+92750,Policial,48,Sim,Sim,Porto Alegre,MG,Masculino,392.6
+86262,Bombeiro,28,Sim,Não,Porto Alegre,RJ,Feminino,256.0
+137424,Policial,33,Sim,Não,Curitiba,SP,Masculino,282.6
+66600,Bombeiro,25,Não,Sim,Curitiba,RJ,Feminino,270.0
+96898,Advogado,21,Sim,Não,Rio de Janeiro,SP,Feminino,150.0
+82483,Policial,57,Não,Não,Rio de Janeiro,RJ,Masculino,280.4
+38297,Médico,21,Não,Sim,Porto Alegre,SP,Masculino,187.0
+50448,Piloto,42,Não,Não,Curitiba,SP,Masculino,247.4
+46172,Médico,20,Sim,Não,São Paulo,RJ,Feminino,150.0
+62874,Professor,49,Não,Não,Belo Horizonte,RJ,Feminino,148.0
+27657,Médico,20,Não,Não,Curitiba,SP,Masculino,110.0
+104386,Advogado,44,Não,Sim,Curitiba,RS,Masculino,228.8
+145617,Engenheiro,46,Sim,Não,Rio de Janeiro,RJ,Feminino,192.0
+45425,Professor,49,Sim,Não,Belo Horizonte,PR,Feminino,198.0
+46685,Policial,67,Não,Não,Porto Alegre,MG,Feminino,284.0
+142000,Professor,68,Sim,Não,Curitiba,SP,Masculino,259.6
+132855,Piloto,36,Não,Sim,Porto Alegre,SP,Feminino,292.0
+44578,Bombeiro,38,Não,Não,Curitiba,MG,Masculino,238.6
+48831,Policial,22,Sim,Sim,Porto Alegre,RS,Feminino,320.0
+27906,Professor,35,Não,Não,Belo Horizonte,MG,Feminino,120.0
+81413,Policial,45,Sim,Sim,Rio de Janeiro,RJ,Masculino,386.0
+74028,Policial,59,Sim,Sim,Belo Horizonte,MG,Masculino,416.8
+27287,Policial,39,Não,Sim,São Paulo,SP,Masculino,317.8
+53660,Bombeiro,38,Sim,Sim,Rio de Janeiro,MG,Feminino,346.0
+95758,Advogado,23,Sim,Sim,Belo Horizonte,PR,Feminino,220.0
+80504,Médico,18,Não,Não,São Paulo,RJ,Feminino,100.0
+79720,Policial,22,Não,Não,Curitiba,MG,Masculino,210.0
+122979,Engenheiro,58,Sim,Não,Curitiba,SP,Feminino,216.0
+54701,Advogado,29,Sim,Sim,Porto Alegre,RJ,Masculino,250.8
+103300,Piloto,43,Não,Não,Rio de Janeiro,SP,Masculino,249.6
+130177,Bombeiro,63,Sim,Sim,Curitiba,RS,Masculino,425.6
+37674,Professor,51,Sim,Sim,Rio de Janeiro,PR,Feminino,272.0
+103560,Bombeiro,66,Sim,Não,Curitiba,RS,Feminino,332.0
+131543,Professor,31,Sim,Não,Porto Alegre,PR,Masculino,178.2
+43874,Bombeiro,43,Sim,Sim,Belo Horizonte,MG,Feminino,356.0
+63642,Professor,62,Sim,Sim,Porto Alegre,RJ,Masculino,323.4
+143867,Policial,44,Sim,Não,São Paulo,MG,Masculino,306.8
+117820,Médico,26,Não,Não,Curitiba,PR,Feminino,102.0
+85160,Professor,43,Não,Não,São Paulo,PR,Masculino,149.6
+37602,Professor,64,Não,Não,São Paulo,PR,Masculino,195.8
+123320,Engenheiro,39,Não,Sim,Rio de Janeiro,SP,Feminino,198.0
+108801,Professor,64,Não,Não,Curitiba,RJ,Masculino,195.8
+45931,Engenheiro,47,Sim,Não,São Paulo,MG,Masculino,213.4
+114377,Piloto,60,Sim,Não,Belo Horizonte,MG,Masculino,342.0
+49192,Policial,65,Sim,Sim,São Paulo,RS,Masculino,430.0
+66542,Engenheiro,34,Sim,Sim,Belo Horizonte,PR,Masculino,261.8
+147015,Médico,43,Não,Sim,Rio de Janeiro,PR,Masculino,226.6
+62520,Advogado,53,Sim,Sim,São Paulo,PR,Masculino,303.6
+84772,Policial,18,Sim,Não,Porto Alegre,MG,Feminino,250.0
+78762,Engenheiro,25,Não,Sim,Rio de Janeiro,RS,Feminino,170.0
+70106,Policial,66,Sim,Não,Belo Horizonte,SP,Masculino,355.2
+101121,Policial,52,Sim,Não,Rio de Janeiro,RJ,Masculino,324.4
+45559,Policial,69,Não,Não,São Paulo,SP,Feminino,288.0
+125595,Piloto,32,Sim,Não,Curitiba,MG,Feminino,264.0
+53742,Médico,64,Sim,Sim,Curitiba,PR,Feminino,298.0
+89669,Bombeiro,39,Sim,Sim,Belo Horizonte,RJ,Feminino,348.0
+100199,Bombeiro,31,Sim,Sim,Belo Horizonte,MG,Feminino,332.0
+41754,Engenheiro,43,Sim,Não,Curitiba,MG,Masculino,204.6
+23972,Policial,45,Não,Não,Belo Horizonte,MG,Feminino,240.0
+90831,Engenheiro,40,Não,Não,Rio de Janeiro,RJ,Feminino,130.0
+132217,Piloto,31,Não,Não,Porto Alegre,RJ,Feminino,212.0
+61873,Piloto,41,Não,Não,Porto Alegre,RS,Masculino,245.2
+114661,Professor,19,Não,Sim,Rio de Janeiro,RS,Masculino,187.0
+126532,Piloto,62,Não,Não,Porto Alegre,SP,Masculino,291.4
+146267,Professor,43,Sim,Sim,São Paulo,RJ,Masculino,281.6
+29903,Médico,31,Não,Não,Rio de Janeiro,RJ,Masculino,123.2
+23020,Engenheiro,68,Não,Não,Belo Horizonte,RJ,Masculino,204.6
+61755,Advogado,24,Sim,Sim,Rio de Janeiro,RS,Feminino,220.0
+105956,Médico,20,Sim,Sim,Curitiba,MG,Masculino,242.0
+106988,Piloto,64,Não,Não,Belo Horizonte,PR,Masculino,295.8
+65648,Médico,40,Sim,Não,Curitiba,RS,Feminino,180.0
+123537,Médico,63,Não,Não,Belo Horizonte,RJ,Masculino,193.6
+145991,Médico,60,Sim,Não,Porto Alegre,RS,Feminino,220.0
+29516,Piloto,64,Não,Sim,Rio de Janeiro,SP,Feminino,348.0
+132863,Advogado,62,Sim,Não,São Paulo,RJ,Masculino,246.4
+135005,Policial,35,Sim,Sim,Belo Horizonte,SP,Feminino,340.0
+22396,Médico,55,Não,Não,Belo Horizonte,RJ,Feminino,160.0
